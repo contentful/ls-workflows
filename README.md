@@ -8,7 +8,7 @@ This repo contains the content model for a legal approval workflow. After import
 ### Get the JSON space export file
 
 ```
-$ git clone https://github.com/skikirkwood/ls-workflows.git
+$ git clone https://github.com/contentful/ls-workflows.git
 ```
 
 ### Import the JSON export into an empty space
